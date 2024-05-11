@@ -73,6 +73,7 @@ public class BaseTest {
 	       
 }
 	//utility to tahe screenshots is now in basetest
+	//testing testing
 
 public String getScreenshot(String testCaseName,WebDriver driver) throws IOException {
 	TakesScreenshot ts = (TakesScreenshot)driver;
